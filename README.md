@@ -171,7 +171,7 @@ MIT License - See LICENSE file for details
 
 ## 👥 Team
 
-[Add your team members here]
+Built with ❤️ for the neurodiversity community
 
 ## 🙏 Acknowledgments
 
