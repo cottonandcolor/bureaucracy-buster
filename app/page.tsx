@@ -119,8 +119,8 @@ export default function Home() {
             📄 Bureaucracy Buster
           </h2>
           <p className="text-xl text-gray-700 mb-6 leading-relaxed">
-            Point your camera at a complex form, letter, or document. We'll tell you exactly
-            what it is, when it's due, and what you need to do.
+            Point your camera at a complex form, letter, or document. We&apos;ll tell you exactly
+            what it is, when it&apos;s due, and what you need to do.
           </p>
 
           <div className="bg-blue-50 border-l-4 border-blue-500 p-5 rounded-lg mb-6" role="complementary" aria-label="How it works">
@@ -209,7 +209,7 @@ export default function Home() {
                 <div className="flex items-start gap-3">
                   <span className="text-3xl" aria-hidden="true">💚</span>
                   <div>
-                    <h2 className="text-2xl font-bold text-green-900 mb-2">You've Got This!</h2>
+                    <h2 className="text-2xl font-bold text-green-900 mb-2">You&apos;ve Got This!</h2>
                     <p className="text-xl text-green-800 leading-relaxed">
                       {results.reassurance}
                     </p>
